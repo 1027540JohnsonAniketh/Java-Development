@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="edu.neu.csye6200.view.TeacherView" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/view/TeacherView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="287" x="174" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="edu.neu.csye6200.controller.TeacherController" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/controller/TeacherController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="211" x="1690" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.neu.csye6200.view.ImmunizationView" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/view/ImmunizationView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="405" width="287" x="501" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.neu.csye6200.model.Classroom" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/Classroom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="185" x="2379" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.neu.csye6200.model.ImmunizationRecord" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/ImmunizationRecord.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="158" x="2136" y="1589"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.neu.csye6200.model.Parent" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/Parent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="155" x="1941" y="1589"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.neu.csye6200.controller.ClassRoomController" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/controller/ClassRoomController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="263" x="2705" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.neu.csye6200.view.EnrollmentView" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/view/EnrollmentView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="317" x="828" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.neu.csye6200.factory.StudentFactory" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/factory/StudentFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="167" x="2791" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="edu.neu.csye6200.view.MainView" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/view/MainView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="287" x="1185" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="edu.neu.csye6200.utils.SqlUtil" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/utils/SqlUtil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="1512" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="edu.neu.csye6200.utils.DateUtil" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/utils/DateUtil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="256" x="1764" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="edu.neu.csye6200.model.Person" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/Person.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="127" x="1941" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="edu.neu.csye6200.view.StudentView" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/view/StudentView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="621" width="287" x="2060" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="edu.neu.csye6200.model.ImmunizationRule" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/ImmunizationRule.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="125" x="2387" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="edu.neu.csye6200.controller.RegulationsController" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/controller/RegulationsController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="2604" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="edu.neu.csye6200.controller.StudentController" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/controller/StudentController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="231" x="2108" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="edu.neu.csye6200.factory.TeacherFactory" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/factory/TeacherFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="169" x="3008" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="edu.neu.csye6200.model.Regulations" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/Regulations.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="156" x="2492" y="1216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="edu.neu.csye6200.model.Student" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/Student.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="270" x="2108" y="1216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="edu.neu.csye6200.factory.PersonFactory" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/factory/PersonFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="150" x="3008" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="edu.neu.csye6200.main.Driver" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/main/Driver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="2552" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="edu.neu.csye6200.model.Teacher" project="DayCareProject" 
+    file="/DayCareProject/src/main/java/edu/neu/csye6200/model/Teacher.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="129" x="1791" y="1216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="24">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="25" name="students"/>      
+      <multiplicity id="26" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="28" name="classroomList"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="31" name="parent"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="34" name="rules"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="37" name="regulations"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="40" name="teachers"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="44">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="45" name="immunizationRecord"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="48" name="instance"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="50">    
+    <bendpoint x="1950" y="1216"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="52" name="studentList"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="55" name="instance"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="58">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="59" name="teachers"/>      
+      <multiplicity id="60" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
